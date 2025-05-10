@@ -1,0 +1,167 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.rectangle {
+    position: relative;
+    margin-top: 120px;
+    border: 2px solid rgb(36, 36, 36);
+    width: 50vw;
+    height: 25vh;
+    background-color: rgb(16, 104, 211);
+    border-radius: 45vw;
+}
+
+.lightBlueRectangle{ 
+    position: absolute; 
+    width: 45vw;
+    height: 25vh;
+    border-radius: 45vw;
+    background-color: rgb(6, 111, 240);
+    right: 0vw;
+
+}
+
+.lighterBlue{
+    position: absolute; 
+    width: 40vw;
+    height: 25vh;
+    border-radius: 45vw;
+    background-color: rgb(32, 127, 244);
+    right: 0vw;
+}
+
+.lightestblue{
+    position: absolute; 
+    width: 35vw;
+    height: 25vh;
+    border-radius: 45vw;
+    background-color: rgb(50, 144, 249);
+    right: 0vw;
+}
+
+.lighrrr{
+    position: absolute; 
+    width: 30vw;
+    height: 25vh;
+    border-radius: 45vw;
+    background-color: rgb(70, 161, 254);
+    right: 0vw;
+}
+
+.circle{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border-radius:100%;
+    background-color: rgb(255, 221, 0);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    top: 2.5vh;
+    right: 3vw;
+}
+
+.innerCircle{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    border-radius:100%;
+    background-color:  rgb(221, 193, 8);
+    top: 2px;
+}
+
+.innerCircle2{
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    border-radius:100%;
+    background-color:  rgb(255, 255, 255);
+    top: 5vh;
+    right: 3vw;
+}
+
+
+.rectangle1 {
+    position: relative;
+    margin-top: 120px;
+    border: 2px solid rgb(249, 249, 249);
+    width: 50vw;
+    height: 25vh;
+    background-color: rgb(48, 51, 53);
+    border-radius: 45vw;
+}
+
+.lightBlueRectangle1{ 
+    position: absolute; 
+    width: 45vw;
+    height: 25vh;
+    border-radius: 45vw;
+    background-color: rgb(69, 71, 73);
+    right: 0vw;
+
+}
+
+.lighterBlue1{
+    position: absolute; 
+    width: 40vw;
+    height: 25vh;
+    border-radius: 45vw;
+    background-color: rgb(84, 85, 86);
+    right: 0vw;
+}
+
+.lightestblue1{
+    position: absolute; 
+    width: 35vw;
+    height: 25vh;
+    border-radius: 45vw;
+    background-color: rgb(100, 104, 108);
+    right: 0vw;
+}
+
+.lighrrr1{
+    position: absolute; 
+    width: 30vw;
+    height: 25vh;
+    border-radius: 45vw;
+    background-color: rgb(130, 132, 135);
+    right: 0vw;
+}
+
+.circle1{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border-radius:100%;
+    background-color: rgb(253, 253, 253);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    top: 2.5vh;
+    right: 3vw;
+}
+
+.innerCircle1{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    border-radius:100%;
+    background-color:  rgb(219, 219, 219);
+    top: 2px;
+}
+
+.innerCircle21{
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    border-radius:100%;
+    background-color:  rgb(161, 161, 161);
+    top: 5vh;
+    right: 3vw;
+}
